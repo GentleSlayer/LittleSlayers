@@ -1,0 +1,15 @@
+<bmp_begin>
+file(0-0): sprite_ce\sys\bscreen1.png  w: 800 h: 600  row: 1  col: 1
+file(1-1): sprite_ce\sys\bscreen2.png  w: 800 h: 600  row: 1  col: 1
+file(2-2): sprite_ce\sys\bscreen3.png  w: 800 h: 600  row: 1  col: 1
+file(3-3): sprite_ce\sys\bscreen4.png  w: 800 h: 600  row: 1  col: 1
+file(4-4): sprite_ce\sys\bscreen5.png  w: 800 h: 600  row: 1  col: 1
+file(5-5): sprite_ce\sys\bscreen6.png  w: 800 h: 600  row: 1  col: 1
+file(6-6): sprite_ce\sys\bscreen7.png  w: 800 h: 600  row: 1  col: 1
+file(7-7): sprite_ce\sys\bscreen8.png  w: 800 h: 600  row: 1  col: 1
+file(8-8): sprite_ce\sys\bscreen9.png  w: 800 h: 600  row: 1  col: 1
+file(9-9): sprite_ce\sys\bscreen10.png  w: 800 h: 600  row: 1  col: 1
+weapon_hit_sound: data\020.wav
+weapon_drop_sound: data\020.wav
+weapon_broken_sound: data\020.wav
+<bmp_end>
